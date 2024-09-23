@@ -1,0 +1,9 @@
+.idea
+old
+dist
+venv
+qyout.egg-info
+**__pycache__
+venv_build
+
+
