@@ -13,3 +13,8 @@ fi
 
 rm -rf dist
 python -m build
+
+echo
+echo "to deliver:"
+echo "${VENV}/bin/python -m twine upload dist/*"
+echo
