@@ -5,7 +5,10 @@ Linux application to download Youtube. Just copy/paste Youtube URL. 3 modes are 
 * video: download video and reduce it
 * playlist: download all musics of a playlist (convert to mp3) ==> be careful to copy a Youtube playlist URL: the URL shall contain "playlist" keyword (clic on "view full playlist" to get the correct URL)
 
-Files are downloaded in your user directory.
+Files are downloaded in your user directory by default. You can change it.
+
+![image](media/qyout.png)
+
 
 Dependencies:
 * yt-dlp
