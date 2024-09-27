@@ -2,7 +2,7 @@ from PyQt6.QtCore import *
 from PyQt6.QtGui import *
 from PyQt6.QtWidgets import *
 
-from config import *
+from qyout.config import *
 
 
 class MainWindow(QMainWindow):
